@@ -1,29 +1,27 @@
-Spring Boot ☕
+# Spring Boot ☕
 
-Este repositório reúne meus estudos em Spring Boot, organizados por tópicos fundamentais do desenvolvimento backend.
-O foco é estruturar APIs REST e aplicar boas práticas de organização em camadas, preparando a base para projetos completos com JPA e banco de dados relacional.
+Este repositório concentra meus estudos práticos em Spring Boot, com foco na construção de APIs backend estruturadas.  
+O objetivo é consolidar a base para projetos completos utilizando JPA e arquitetura profissional.
 
-📚 Conteúdos
-🔹 Fundamentos
+---
 
-Estrutura de projeto Spring Boot
+## 📚 Conteúdos
 
-Configuração com application.properties
+### 🔹 Estrutura da Aplicação
+- Criação de projeto Spring Boot
+- Organização em camadas
+- Configurações da aplicação
 
-Gerenciamento de dependências com Maven
+---
 
-🔹 Controllers
+### 🔹 Camada Web
+- Implementação de Controllers
+- Mapeamentos HTTP
+- Testes de requisições
 
-Criação de endpoints REST
+---
 
-Mapeamentos HTTP (GET, POST, PUT, DELETE)
-
-Testes de requisições
-
-🔹 Integração com JPA
-
-Mapeamento de entidades
-
-Repositórios com Spring Data
-
-Operações básicas de CRUD
+### 🔹 Integração com Banco de Dados
+- Mapeamento de entidades
+- Repositórios com Spring Data JPA
+- Operações de CRUD
